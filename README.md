@@ -15,18 +15,9 @@
 
 ---
 
-## 📊 GitHub İstatistikleri
-
-- **Toplam Depo:** [Sayı]
-- **Katkı Oranı:** [%]
-- **Takipçi:** [Sayı]
-- **Takip Edilen:** [Sayı]
-- 
----
-
 ## 🌐 Bağlantılar
-- **Portfolio:** [https://hubino.com.tr]
-- **Email:** [iletisim@hubino.com.tr]
+- **Portfolio:** https://hubino.com.tr
+- **Email:** iletisim@hubino.com.tr
 
 ---
 
