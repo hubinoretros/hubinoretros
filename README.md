@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👤 GitHub Profil Tanıtımı - hubinoretros
 
-<!--
-**hubinoretros/hubinoretros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Teknik Yetenekler
 
-Here are some ideas to get you started:
+### Programlama Dilleri
+- **Fluent:** [Python, JavaScript, TypeScript]
+- **Intermediate:** [Java, C++]
+- **Learning:** [Rust, Go]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Teknolojiler & Framework'ler
+- Web Geliştirme
+- Mobil Uygulamalar
+- Veri Analizi / Makine Öğrenmesi
+- DevOps / Cloud
+
+---
+
+## 📊 GitHub İstatistikleri
+
+- **Toplam Depo:** [Sayı]
+- **Katkı Oranı:** [%]
+- **Takipçi:** [Sayı]
+- **Takip Edilen:** [Sayı]
+- 
+---
+
+## 🌐 Bağlantılar
+- **Portfolio:** [https://hubino.com.tr]
+- **Email:** [iletisim@hubino.com.tr]
+
+---
+
+## 📌 İlgi Alanları
+- Open Source Katkıları
+- Web Teknolojileri
+- Yapay Zeka / Makine Öğrenmesi
+
+---
+
+## 🤝 İş Birliği
+Açık kaynak projelere katkı yapmaktan hoşlanırım ve yeni teknolojiler öğrenmeye ilgi duyarım. 
+
+---
+
+## ⭐ GitHub İstatistikleri
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hubinoretros&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hubinoretros&layout=compact&theme=radical)
+
+---
+
+*Son güncelleme: 2026-04-17*
