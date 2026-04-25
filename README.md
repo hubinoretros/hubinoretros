@@ -34,6 +34,29 @@
 </tr>
 <tr>
 <td width="100%">
+  <h3>🌐 <a href="https://github.com/hubinoretros/internetsearch">@nachoretro/internetsearch</a></h3>
+  <p>Enhanced web search & content extraction MCP server — an evolution of mcp-server-fetch with 8 powerful tools for AI agents. Search the web, fetch pages, extract metadata, read RSS feeds, get YouTube transcripts, and more.</p>
+  <p>
+    <img src="https://img.shields.io/npm/v/@nachoretro/internetsearch?style=flat-square&label=npm" />
+    <img src="https://img.shields.io/npm/dt/@nachoretro/internetsearch?style=flat-square&label=downloads" />
+    <img src="https://img.shields.io/github/stars/hubinoretros/internetsearch?style=flat-square&label=stars" />
+    <img src="https://img.shields.io/github/license/hubinoretros/internetsearch?style=flat-square" />
+  </p>
+  <p><code>npx @nachoretro/internetsearch</code> — drop-in replacement for fetch with superpowers</p>
+  <p><strong>Key features:</strong></p>
+  <ul>
+    <li><strong>Web Search</strong> — DuckDuckGo + Brave Search API</li>
+    <li><strong>Content Summarization</strong> — Auto-summarize any page</li>
+    <li><strong>Parallel Fetching</strong> — Multiple URLs at once</li>
+    <li><strong>RSS/Atom Feeds</strong> — Read news & updates</li>
+    <li><strong>YouTube Transcripts</strong> — Video content extraction</li>
+    <li><strong>Metadata Extraction</strong> — OpenGraph, author, published date</li>
+    <li><strong>Search & Summarize</strong> — One-call research workflow</li>
+  </ul>
+</td>
+</tr>
+<tr>
+<td width="100%">
   <h3>🏙️ <a href="https://github.com/hubinoretros/code-to-city">code-to-city</a></h3>
   <p>VS Code extension that visualizes software projects as interactive 3D cities. Explore your codebase in a whole new way.</p>
   <p>
@@ -76,7 +99,8 @@ const hubino = {
 ### 🌍 Open Source Presence
 
 - 📋 [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) contributor
-- 📦 [deep-thinker](https://www.npmjs.com/package/deep-thinker) on npm (4,800+ MCP servers discoverable)
+- 📦 [deep-thinker](https://www.npmjs.com/package/deep-thinker) — Advanced cognitive reasoning MCP
+- 📦 [@nachoretro/internetsearch](https://www.npmjs.com/package/@nachoretro/internetsearch) — Web search & content extraction MCP
 
 ---
 
