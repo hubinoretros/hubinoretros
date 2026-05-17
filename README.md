@@ -8,7 +8,18 @@
 
 ---
 
-### 🔥 Featured Project
+### 👨‍💻 About Me
+
+I'm a full-stack developer passionate about **AI agents**, **cognitive systems**, and **3D visualization**. I create open-source tools that help AI think better and work smarter. My focus is on building Model Context Protocol (MCP) servers and advanced software visualization tools.
+
+- 🚀 Building AI-powered MCP servers
+- 🧠 Specializing in cognitive reasoning systems
+- 📚 Active open-source contributor
+- 🌍 Based in Turkey
+
+---
+
+### 🔥 Featured Projects
 
 <table>
 <tr>
@@ -58,11 +69,18 @@
 <tr>
 <td width="100%">
   <h3>🏙️ <a href="https://github.com/hubinoretros/code-to-city">code-to-city</a></h3>
-  <p>VS Code extension that visualizes software projects as interactive 3D cities. Explore your codebase in a whole new way.</p>
+  <p>VS Code extension that visualizes software projects as interactive 3D cities. Explore your codebase in a whole new way, understand architecture at a glance, and navigate complex codebases intuitively.</p>
   <p>
     <img src="https://img.shields.io/badge/VS_Code-Extension-blue?style=flat-square" />
     <img src="https://img.shields.io/badge/3D-Visualization-orange?style=flat-square" />
+    <img src="https://img.shields.io/github/stars/hubinoretros/code-to-city?style=flat-square&label=stars" />
   </p>
+  <p><strong>Key features:</strong></p>
+  <ul>
+    <li><strong>3D City Visualization</strong> — Files as buildings, folders as districts</li>
+    <li><strong>Real-time Updates</strong> — Changes reflect instantly</li>
+    <li><strong>Interactive Navigation</strong> — Zoom, pan, inspect code</li>
+  </ul>
 </td>
 </tr>
 </table>
@@ -76,7 +94,7 @@ const hubino = {
   languages: ["TypeScript", "JavaScript", "Python", "Java", "C++"],
   learning:   ["Rust", "Go"],
   focus:      ["MCP", "AI Agents", "Cognitive Systems", "3D Visualization"],
-  tools:      ["Node.js", "React", "Docker", "GitHub Actions"],
+  tools:      ["Node.js", "React", "Docker", "GitHub Actions", "Three.js"],
   standards:  ["Model Context Protocol", "WebExtensions"]
 };
 ```
@@ -101,9 +119,34 @@ const hubino = {
 - 📋 [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) contributor
 - 📦 [deep-thinker](https://www.npmjs.com/package/deep-thinker) — Advanced cognitive reasoning MCP
 - 📦 [@nachoretro/internetsearch](https://www.npmjs.com/package/@nachoretro/internetsearch) — Web search & content extraction MCP
+- 🏗️ [code-to-city](https://github.com/hubinoretros/code-to-city) — 3D code visualization
+
+---
+
+### 💬 Get in Touch
+
+<p align="center">
+  <a href="https://hubino.com.tr">🌐 Website</a> · 
+  <a href="mailto:iletisim@hubino.com.tr">📧 Email</a> · 
+  <a href="https://www.npmjs.com/~nachoretro">📦 npm</a> · 
+  <a href="https://github.com/hubinoretros">🐙 GitHub</a>
+</p>
+
+---
+
+### 🤝 Contributing
+
+I'm always open to collaborations and contributions! If you're interested in MCP servers, AI agents, or code visualization, feel free to:
+- 🐛 Open issues with bug reports or feature requests
+- 🔀 Submit pull requests with improvements
+- 💡 Share ideas and suggestions
 
 ---
 
 <p align="center">
   <i>"Building tools that help AI think better."</i>
+</p>
+
+<p align="center">
+  <sub>Last updated: 2026-05-17</sub>
 </p>
